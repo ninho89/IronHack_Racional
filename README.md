@@ -1,3 +1,3 @@
 # IronHack_Racionales
 
-Ejercicio sobre numeros racionales
+Ejercicio sobre numeros racionales y TDD
